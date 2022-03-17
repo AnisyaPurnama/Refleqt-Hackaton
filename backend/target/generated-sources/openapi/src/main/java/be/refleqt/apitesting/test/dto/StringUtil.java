@@ -13,7 +13,7 @@
 
 package be.refleqt.apitesting.test.dto;
 
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-03-17T14:31:42.100972+01:00[Europe/Brussels]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-03-17T14:48:50.460055+01:00[Europe/Brussels]")
 public class StringUtil {
   /**
    * Check if the given array contains the given value (with case-insensitive comparison).

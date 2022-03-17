@@ -2,7 +2,7 @@
 
 Swagger Petstore - OpenAPI 3.0
 - API version: 1.0.11
-  - Build date: 2022-03-17T14:31:42.100972+01:00[Europe/Brussels]
+  - Build date: 2022-03-17T14:48:50.460055+01:00[Europe/Brussels]
 
 This is a sample Pet Store Server based on the OpenAPI 3.0 specification.  You can find out more about
 Swagger at [http://swagger.io](http://swagger.io). In the third iteration of the pet store, we've switched to the design first approach!
