@@ -24,5 +24,6 @@ public class CommonSteps {
     @Given("I go to the homepage")
     public void iGoToTheHomepage() {
         DriverManager.getDriver().get("https://blazedemo.com/");
+        ScenarioManager.saveScreenshot();
     }
 }

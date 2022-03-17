@@ -7,7 +7,7 @@ public class EventHandler implements WebDriverListener {
 
     @Override
     public void afterClick(WebElement element) {
-//        WebDriverListener.super.afterClick(element);
         ScenarioManager.saveScreenshot();
     }
+
 }

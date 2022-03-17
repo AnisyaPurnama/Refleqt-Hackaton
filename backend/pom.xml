@@ -116,17 +116,7 @@
             <version>4.9.1</version>
             <scope>test</scope>
         </dependency>
-
     </dependencies>
-
-    <profiles>
-        <profile>
-            <id>sanityTests</id>
-            <properties>
-                <tests>sanity</tests>
-            </properties>
-        </profile>
-    </profiles>
 
     <build>
         <plugins>

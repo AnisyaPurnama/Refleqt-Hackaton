@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src/test/resources",
         glue = "be.refleqt.hackaton.steps",
-        plugin = {"progress", "json:target/cucumber/json/results.json", "html:target/cucumber/html/results.html"},
+        plugin = {"progress", "json:target/cucumber/json/results.json", "html:target/cucumber/html/results.html",},
         snippets = CucumberOptions.SnippetType.CAMELCASE)
 public class CucumberExecutor {
 

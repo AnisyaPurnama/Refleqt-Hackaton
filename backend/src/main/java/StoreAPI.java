@@ -1,5 +1,4 @@
 
-
 import be.refleqt.h4ckaton.test.dto.ApiException;
 import be.refleqt.h4ckaton.test.dto.ApiResponse;
 import be.refleqt.h4ckaton.test.dto.api.StoreApi;
