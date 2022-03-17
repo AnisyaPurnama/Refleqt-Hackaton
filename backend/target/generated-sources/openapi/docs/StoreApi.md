@@ -21,11 +21,11 @@ For valid response try integer IDs with value &lt; 1000. Anything above 1000 or 
 ### Example
 ```java
 // Import classes:
-import be.refleqt.apitesting.test.dto.ApiClient;
-import be.refleqt.apitesting.test.dto.ApiException;
-import be.refleqt.apitesting.test.dto.Configuration;
-import be.refleqt.apitesting.test.dto.models.*;
-import be.refleqt.apitesting.test.dto.api.StoreApi;
+import be.refleqt.h4ckaton.test.dto.ApiClient;
+import be.refleqt.h4ckaton.test.dto.ApiException;
+import be.refleqt.h4ckaton.test.dto.Configuration;
+import be.refleqt.h4ckaton.test.dto.models.*;
+import be.refleqt.h4ckaton.test.dto.api.StoreApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -83,12 +83,12 @@ Returns a map of status codes to quantities
 ### Example
 ```java
 // Import classes:
-import be.refleqt.apitesting.test.dto.ApiClient;
-import be.refleqt.apitesting.test.dto.ApiException;
-import be.refleqt.apitesting.test.dto.Configuration;
-import be.refleqt.apitesting.test.dto.auth.*;
-import be.refleqt.apitesting.test.dto.models.*;
-import be.refleqt.apitesting.test.dto.api.StoreApi;
+import be.refleqt.h4ckaton.test.dto.ApiClient;
+import be.refleqt.h4ckaton.test.dto.ApiException;
+import be.refleqt.h4ckaton.test.dto.Configuration;
+import be.refleqt.h4ckaton.test.dto.auth.*;
+import be.refleqt.h4ckaton.test.dto.models.*;
+import be.refleqt.h4ckaton.test.dto.api.StoreApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -148,11 +148,11 @@ For valid response try integer IDs with value &lt;&#x3D; 5 or &gt; 10. Other val
 ### Example
 ```java
 // Import classes:
-import be.refleqt.apitesting.test.dto.ApiClient;
-import be.refleqt.apitesting.test.dto.ApiException;
-import be.refleqt.apitesting.test.dto.Configuration;
-import be.refleqt.apitesting.test.dto.models.*;
-import be.refleqt.apitesting.test.dto.api.StoreApi;
+import be.refleqt.h4ckaton.test.dto.ApiClient;
+import be.refleqt.h4ckaton.test.dto.ApiException;
+import be.refleqt.h4ckaton.test.dto.Configuration;
+import be.refleqt.h4ckaton.test.dto.models.*;
+import be.refleqt.h4ckaton.test.dto.api.StoreApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -212,11 +212,11 @@ Place a new order in the store
 ### Example
 ```java
 // Import classes:
-import be.refleqt.apitesting.test.dto.ApiClient;
-import be.refleqt.apitesting.test.dto.ApiException;
-import be.refleqt.apitesting.test.dto.Configuration;
-import be.refleqt.apitesting.test.dto.models.*;
-import be.refleqt.apitesting.test.dto.api.StoreApi;
+import be.refleqt.h4ckaton.test.dto.ApiClient;
+import be.refleqt.h4ckaton.test.dto.ApiException;
+import be.refleqt.h4ckaton.test.dto.Configuration;
+import be.refleqt.h4ckaton.test.dto.models.*;
+import be.refleqt.h4ckaton.test.dto.api.StoreApi;
 
 public class Example {
   public static void main(String[] args) {
