@@ -116,13 +116,18 @@
             <version>4.9.1</version>
             <scope>test</scope>
         </dependency>
-        <dependency>
-            <groupId>country.customer.project</groupId>
-            <artifactId>api-support</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>test</scope>
-        </dependency>
+
     </dependencies>
+
+    <profiles>
+        <profile>
+            <id>sanityTests</id>
+            <properties>
+                <tests>sanity</tests>
+            </properties>
+        </profile>
+    </profiles>
+
     <build>
         <plugins>
             <plugin>

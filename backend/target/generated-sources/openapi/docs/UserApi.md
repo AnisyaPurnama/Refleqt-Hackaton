@@ -24,11 +24,11 @@ This can only be done by the logged in user.
 ### Example
 ```java
 // Import classes:
-import be.refleqt.apitesting.test.dto.ApiClient;
-import be.refleqt.apitesting.test.dto.ApiException;
-import be.refleqt.apitesting.test.dto.Configuration;
-import be.refleqt.apitesting.test.dto.models.*;
-import be.refleqt.apitesting.test.dto.api.UserApi;
+import be.refleqt.h4ckaton.test.dto.ApiClient;
+import be.refleqt.h4ckaton.test.dto.ApiException;
+import be.refleqt.h4ckaton.test.dto.Configuration;
+import be.refleqt.h4ckaton.test.dto.models.*;
+import be.refleqt.h4ckaton.test.dto.api.UserApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -86,11 +86,11 @@ Creates list of users with given input array
 ### Example
 ```java
 // Import classes:
-import be.refleqt.apitesting.test.dto.ApiClient;
-import be.refleqt.apitesting.test.dto.ApiException;
-import be.refleqt.apitesting.test.dto.Configuration;
-import be.refleqt.apitesting.test.dto.models.*;
-import be.refleqt.apitesting.test.dto.api.UserApi;
+import be.refleqt.h4ckaton.test.dto.ApiClient;
+import be.refleqt.h4ckaton.test.dto.ApiException;
+import be.refleqt.h4ckaton.test.dto.Configuration;
+import be.refleqt.h4ckaton.test.dto.models.*;
+import be.refleqt.h4ckaton.test.dto.api.UserApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -149,11 +149,11 @@ This can only be done by the logged in user.
 ### Example
 ```java
 // Import classes:
-import be.refleqt.apitesting.test.dto.ApiClient;
-import be.refleqt.apitesting.test.dto.ApiException;
-import be.refleqt.apitesting.test.dto.Configuration;
-import be.refleqt.apitesting.test.dto.models.*;
-import be.refleqt.apitesting.test.dto.api.UserApi;
+import be.refleqt.h4ckaton.test.dto.ApiClient;
+import be.refleqt.h4ckaton.test.dto.ApiException;
+import be.refleqt.h4ckaton.test.dto.Configuration;
+import be.refleqt.h4ckaton.test.dto.models.*;
+import be.refleqt.h4ckaton.test.dto.api.UserApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -209,11 +209,11 @@ Get user by user name
 ### Example
 ```java
 // Import classes:
-import be.refleqt.apitesting.test.dto.ApiClient;
-import be.refleqt.apitesting.test.dto.ApiException;
-import be.refleqt.apitesting.test.dto.Configuration;
-import be.refleqt.apitesting.test.dto.models.*;
-import be.refleqt.apitesting.test.dto.api.UserApi;
+import be.refleqt.h4ckaton.test.dto.ApiClient;
+import be.refleqt.h4ckaton.test.dto.ApiException;
+import be.refleqt.h4ckaton.test.dto.Configuration;
+import be.refleqt.h4ckaton.test.dto.models.*;
+import be.refleqt.h4ckaton.test.dto.api.UserApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -271,11 +271,11 @@ Logs user into the system
 ### Example
 ```java
 // Import classes:
-import be.refleqt.apitesting.test.dto.ApiClient;
-import be.refleqt.apitesting.test.dto.ApiException;
-import be.refleqt.apitesting.test.dto.Configuration;
-import be.refleqt.apitesting.test.dto.models.*;
-import be.refleqt.apitesting.test.dto.api.UserApi;
+import be.refleqt.h4ckaton.test.dto.ApiClient;
+import be.refleqt.h4ckaton.test.dto.ApiException;
+import be.refleqt.h4ckaton.test.dto.Configuration;
+import be.refleqt.h4ckaton.test.dto.models.*;
+import be.refleqt.h4ckaton.test.dto.api.UserApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -334,11 +334,11 @@ Logs out current logged in user session
 ### Example
 ```java
 // Import classes:
-import be.refleqt.apitesting.test.dto.ApiClient;
-import be.refleqt.apitesting.test.dto.ApiException;
-import be.refleqt.apitesting.test.dto.Configuration;
-import be.refleqt.apitesting.test.dto.models.*;
-import be.refleqt.apitesting.test.dto.api.UserApi;
+import be.refleqt.h4ckaton.test.dto.ApiClient;
+import be.refleqt.h4ckaton.test.dto.ApiException;
+import be.refleqt.h4ckaton.test.dto.Configuration;
+import be.refleqt.h4ckaton.test.dto.models.*;
+import be.refleqt.h4ckaton.test.dto.api.UserApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -391,11 +391,11 @@ This can only be done by the logged in user.
 ### Example
 ```java
 // Import classes:
-import be.refleqt.apitesting.test.dto.ApiClient;
-import be.refleqt.apitesting.test.dto.ApiException;
-import be.refleqt.apitesting.test.dto.Configuration;
-import be.refleqt.apitesting.test.dto.models.*;
-import be.refleqt.apitesting.test.dto.api.UserApi;
+import be.refleqt.h4ckaton.test.dto.ApiClient;
+import be.refleqt.h4ckaton.test.dto.ApiException;
+import be.refleqt.h4ckaton.test.dto.Configuration;
+import be.refleqt.h4ckaton.test.dto.models.*;
+import be.refleqt.h4ckaton.test.dto.api.UserApi;
 
 public class Example {
   public static void main(String[] args) {

@@ -25,12 +25,12 @@ Add a new pet to the store
 ### Example
 ```java
 // Import classes:
-import be.refleqt.apitesting.test.dto.ApiClient;
-import be.refleqt.apitesting.test.dto.ApiException;
-import be.refleqt.apitesting.test.dto.Configuration;
-import be.refleqt.apitesting.test.dto.auth.*;
-import be.refleqt.apitesting.test.dto.models.*;
-import be.refleqt.apitesting.test.dto.api.PetApi;
+import be.refleqt.h4ckaton.test.dto.ApiClient;
+import be.refleqt.h4ckaton.test.dto.ApiException;
+import be.refleqt.h4ckaton.test.dto.Configuration;
+import be.refleqt.h4ckaton.test.dto.auth.*;
+import be.refleqt.h4ckaton.test.dto.models.*;
+import be.refleqt.h4ckaton.test.dto.api.PetApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -91,12 +91,12 @@ Deletes a pet
 ### Example
 ```java
 // Import classes:
-import be.refleqt.apitesting.test.dto.ApiClient;
-import be.refleqt.apitesting.test.dto.ApiException;
-import be.refleqt.apitesting.test.dto.Configuration;
-import be.refleqt.apitesting.test.dto.auth.*;
-import be.refleqt.apitesting.test.dto.models.*;
-import be.refleqt.apitesting.test.dto.api.PetApi;
+import be.refleqt.h4ckaton.test.dto.ApiClient;
+import be.refleqt.h4ckaton.test.dto.ApiException;
+import be.refleqt.h4ckaton.test.dto.Configuration;
+import be.refleqt.h4ckaton.test.dto.auth.*;
+import be.refleqt.h4ckaton.test.dto.models.*;
+import be.refleqt.h4ckaton.test.dto.api.PetApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -159,12 +159,12 @@ Multiple status values can be provided with comma separated strings
 ### Example
 ```java
 // Import classes:
-import be.refleqt.apitesting.test.dto.ApiClient;
-import be.refleqt.apitesting.test.dto.ApiException;
-import be.refleqt.apitesting.test.dto.Configuration;
-import be.refleqt.apitesting.test.dto.auth.*;
-import be.refleqt.apitesting.test.dto.models.*;
-import be.refleqt.apitesting.test.dto.api.PetApi;
+import be.refleqt.h4ckaton.test.dto.ApiClient;
+import be.refleqt.h4ckaton.test.dto.ApiException;
+import be.refleqt.h4ckaton.test.dto.Configuration;
+import be.refleqt.h4ckaton.test.dto.auth.*;
+import be.refleqt.h4ckaton.test.dto.models.*;
+import be.refleqt.h4ckaton.test.dto.api.PetApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -227,12 +227,12 @@ Multiple tags can be provided with comma separated strings. Use tag1, tag2, tag3
 ### Example
 ```java
 // Import classes:
-import be.refleqt.apitesting.test.dto.ApiClient;
-import be.refleqt.apitesting.test.dto.ApiException;
-import be.refleqt.apitesting.test.dto.Configuration;
-import be.refleqt.apitesting.test.dto.auth.*;
-import be.refleqt.apitesting.test.dto.models.*;
-import be.refleqt.apitesting.test.dto.api.PetApi;
+import be.refleqt.h4ckaton.test.dto.ApiClient;
+import be.refleqt.h4ckaton.test.dto.ApiException;
+import be.refleqt.h4ckaton.test.dto.Configuration;
+import be.refleqt.h4ckaton.test.dto.auth.*;
+import be.refleqt.h4ckaton.test.dto.models.*;
+import be.refleqt.h4ckaton.test.dto.api.PetApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -295,12 +295,12 @@ Returns a single pet
 ### Example
 ```java
 // Import classes:
-import be.refleqt.apitesting.test.dto.ApiClient;
-import be.refleqt.apitesting.test.dto.ApiException;
-import be.refleqt.apitesting.test.dto.Configuration;
-import be.refleqt.apitesting.test.dto.auth.*;
-import be.refleqt.apitesting.test.dto.models.*;
-import be.refleqt.apitesting.test.dto.api.PetApi;
+import be.refleqt.h4ckaton.test.dto.ApiClient;
+import be.refleqt.h4ckaton.test.dto.ApiException;
+import be.refleqt.h4ckaton.test.dto.Configuration;
+import be.refleqt.h4ckaton.test.dto.auth.*;
+import be.refleqt.h4ckaton.test.dto.models.*;
+import be.refleqt.h4ckaton.test.dto.api.PetApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -370,12 +370,12 @@ Update an existing pet by Id
 ### Example
 ```java
 // Import classes:
-import be.refleqt.apitesting.test.dto.ApiClient;
-import be.refleqt.apitesting.test.dto.ApiException;
-import be.refleqt.apitesting.test.dto.Configuration;
-import be.refleqt.apitesting.test.dto.auth.*;
-import be.refleqt.apitesting.test.dto.models.*;
-import be.refleqt.apitesting.test.dto.api.PetApi;
+import be.refleqt.h4ckaton.test.dto.ApiClient;
+import be.refleqt.h4ckaton.test.dto.ApiException;
+import be.refleqt.h4ckaton.test.dto.Configuration;
+import be.refleqt.h4ckaton.test.dto.auth.*;
+import be.refleqt.h4ckaton.test.dto.models.*;
+import be.refleqt.h4ckaton.test.dto.api.PetApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -438,12 +438,12 @@ Updates a pet in the store with form data
 ### Example
 ```java
 // Import classes:
-import be.refleqt.apitesting.test.dto.ApiClient;
-import be.refleqt.apitesting.test.dto.ApiException;
-import be.refleqt.apitesting.test.dto.Configuration;
-import be.refleqt.apitesting.test.dto.auth.*;
-import be.refleqt.apitesting.test.dto.models.*;
-import be.refleqt.apitesting.test.dto.api.PetApi;
+import be.refleqt.h4ckaton.test.dto.ApiClient;
+import be.refleqt.h4ckaton.test.dto.ApiException;
+import be.refleqt.h4ckaton.test.dto.Configuration;
+import be.refleqt.h4ckaton.test.dto.auth.*;
+import be.refleqt.h4ckaton.test.dto.models.*;
+import be.refleqt.h4ckaton.test.dto.api.PetApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -506,12 +506,12 @@ uploads an image
 ### Example
 ```java
 // Import classes:
-import be.refleqt.apitesting.test.dto.ApiClient;
-import be.refleqt.apitesting.test.dto.ApiException;
-import be.refleqt.apitesting.test.dto.Configuration;
-import be.refleqt.apitesting.test.dto.auth.*;
-import be.refleqt.apitesting.test.dto.models.*;
-import be.refleqt.apitesting.test.dto.api.PetApi;
+import be.refleqt.h4ckaton.test.dto.ApiClient;
+import be.refleqt.h4ckaton.test.dto.ApiException;
+import be.refleqt.h4ckaton.test.dto.Configuration;
+import be.refleqt.h4ckaton.test.dto.auth.*;
+import be.refleqt.h4ckaton.test.dto.models.*;
+import be.refleqt.h4ckaton.test.dto.api.PetApi;
 
 public class Example {
   public static void main(String[] args) {
