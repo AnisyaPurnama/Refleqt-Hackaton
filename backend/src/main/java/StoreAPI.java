@@ -9,6 +9,7 @@ import java.util.Map;
 public class StoreAPI {
     ApiClient defaultClient;
 
+    //TODO Copy paste en alles hernoemen naar pet
     public StoreAPI() {
         defaultClient = Configuration.getDefaultApiClient();
         defaultClient.setBasePath("https://petstore3.swagger.io/api/v3");
