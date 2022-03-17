@@ -13,7 +13,7 @@
 
 package be.refleqt.h4ckaton.test.dto;
 
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-03-17T16:43:57.109008+01:00[Europe/Brussels]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-03-17T17:26:36.275306+01:00[Europe/Brussels]")
 public class Configuration {
     private static ApiClient defaultApiClient = new ApiClient();
 

@@ -2,7 +2,7 @@
 
 Swagger Petstore - OpenAPI 3.0
 - API version: 1.0.11
-  - Build date: 2022-03-17T14:48:50.460055+01:00[Europe/Brussels]
+  - Build date: 2022-03-17T17:10:09.166919+01:00[Europe/Brussels]
 
 This is a sample Pet Store Server based on the OpenAPI 3.0 specification.  You can find out more about
 Swagger at [http://swagger.io](http://swagger.io). In the third iteration of the pet store, we've switched to the design first approach!
@@ -80,12 +80,12 @@ Please follow the [installation](#installation) instruction and execute the foll
 ```java
 
 // Import classes:
-import be.refleqt.apitesting.test.dto.ApiClient;
-import be.refleqt.apitesting.test.dto.ApiException;
-import be.refleqt.apitesting.test.dto.Configuration;
-import be.refleqt.apitesting.test.dto.auth.*;
-import be.refleqt.apitesting.test.dto.models.*;
-import be.refleqt.apitesting.test.dto.api.PetApi;
+import be.refleqt.h4ckaton.test.dto.ApiClient;
+import be.refleqt.h4ckaton.test.dto.ApiException;
+import be.refleqt.h4ckaton.test.dto.Configuration;
+import be.refleqt.h4ckaton.test.dto.auth.*;
+import be.refleqt.h4ckaton.test.dto.models.*;
+import be.refleqt.h4ckaton.test.dto.api.PetApi;
 
 public class Example {
   public static void main(String[] args) {

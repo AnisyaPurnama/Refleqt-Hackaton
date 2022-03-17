@@ -1,8 +1,9 @@
-import be.refleqt.apitesting.test.dto.ApiClient;
-import be.refleqt.apitesting.test.dto.ApiException;
-import be.refleqt.apitesting.test.dto.ApiResponse;
-import be.refleqt.apitesting.test.dto.Configuration;
-import be.refleqt.apitesting.test.dto.api.StoreApi;
+
+import be.refleqt.h4ckaton.test.dto.ApiClient;
+import be.refleqt.h4ckaton.test.dto.ApiException;
+import be.refleqt.h4ckaton.test.dto.ApiResponse;
+import be.refleqt.h4ckaton.test.dto.Configuration;
+import be.refleqt.h4ckaton.test.dto.api.StoreApi;
 
 import java.util.Map;
 
